@@ -1,6 +1,6 @@
 <template lang="pug">
 .pages-index
-  p.index-title.red aaaa
+  p.pages-index__title aaaa
 </template>
 
 <script>
@@ -10,7 +10,9 @@ export default {
 </script>
 
 <style lang="scss">
-.red {
-  color: red
+.pages-index {
+  &__title {
+    color: red;
+  }
 }
 </style>
