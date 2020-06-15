@@ -1,7 +1,7 @@
 # 環境構築
-https://blog.cloud-acct.com/posts/blog-nuxtjs-settings/
-https://blog.cloud-acct.com/posts/blog-nuxtjs-new-project
-https://blog.cloud-acct.com/posts/blog-hello-nuxt
+https://blog.cloud-acct.com/posts/blog-nuxtjs-settings/  
+https://blog.cloud-acct.com/posts/blog-nuxtjs-new-project  
+https://blog.cloud-acct.com/posts/blog-hello-nuxt  
 
 # pugの導入 https://qrunch.net/@rainymoment0616/entries/rrGOuOddSsbeOqcv
 $ yarn add pug pug-loader pug-plain-loader 
