@@ -13,7 +13,7 @@ $ yarn add npm install sass-loader node-sass
 https://qiita.com/munieru_jp/items/ea41284f473ad3669616  
 ↑の記事について、npm i -D を yarn add -D に置き換える必要がある
 # typescriptの導入
-https://qiita.com/mach3/items/e156e1753ba48e90cf37
+https://qiita.com/mach3/items/e156e1753ba48e90cf37  
 ↑ESlintはまだ未導入
 
 
