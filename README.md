@@ -1,3 +1,19 @@
+# 環境構築
+https://blog.cloud-acct.com/posts/blog-nuxtjs-settings/  
+https://blog.cloud-acct.com/posts/blog-nuxtjs-new-project  
+https://blog.cloud-acct.com/posts/blog-hello-nuxt  
+
+# pugの導入 
+https://qrunch.net/@rainymoment0616/entries/rrGOuOddSsbeOqcv  
+$ yarn add pug pug-loader pug-plain-loader 
+# scss導入 
+https://www.suzu6.net/posts/173-nuxt-scss/  
+$ yarn add npm install sass-loader node-sass
+# scsslintの導入 
+https://qiita.com/munieru_jp/items/ea41284f473ad3669616  
+↑の記事について、npm i -D を yarn add -D に置き換える必要がある
+
+
 # nuxt_ts
 
 > My astounding Nuxt.js project
