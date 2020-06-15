@@ -11,7 +11,7 @@ https://www.suzu6.net/posts/173-nuxt-scss/
 $ yarn add npm install sass-loader node-sass
 # scsslintの導入 
 https://qiita.com/munieru_jp/items/ea41284f473ad3669616  
-# ↑の記事について、npm i -D を yarn add -D に帰る必要がある
+↑の記事について、npm i -D を yarn add -D に置き換える必要がある
 
 
 # nuxt_ts
