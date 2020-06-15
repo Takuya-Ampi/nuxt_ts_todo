@@ -1,11 +1,6 @@
-<template>
-<v-layout column justify-center align-center>
-  <v-flex xs12 sm8 md6>
-    <div class="text-xs-center">
-      <h1>Hello Nuxt</h1>
-    </div>
-  </v-flex>
-</v-layout>
+<template lang="pug">
+.pages-index
+  p.index-title aaaa
 </template>
 
 <script>
